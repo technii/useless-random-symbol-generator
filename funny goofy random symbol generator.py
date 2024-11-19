@@ -11,3 +11,4 @@ while foram > 0:
     foram = foram - 1
 printoutput = "".join(output)
 print("output =",printoutput)
+input("")
